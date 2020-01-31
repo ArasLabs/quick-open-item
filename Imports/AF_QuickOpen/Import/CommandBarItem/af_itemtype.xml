@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CommandBarDropDown" id="16339FC1509E4159B18E8C71BE91D1E1" action="add">
+  <additional_data>{"right": true}</additional_data>
+  <label xml:lang="en">ItemTypes</label>
+  <on_init_handler keyed_name="AF_InitItemtypesDropdown" type="Method">4D8590E2E4C7465D938E4AD873FD87AA</on_init_handler>
+  <tooltip_template xml:lang="en">ItemTypes</tooltip_template>
+  <name>af_itemtype</name>
+ </Item>
+</AML>

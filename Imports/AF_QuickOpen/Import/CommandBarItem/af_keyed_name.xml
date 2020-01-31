@@ -1,0 +1,7 @@
+﻿<AML>
+ <Item type="CommandBarEdit" id="23364C1F14EF4842A224770B5781FDF0" action="add">
+  <additional_data>{"right": true}</additional_data>
+  <tooltip_template xml:lang="en">Keyed Name</tooltip_template>
+  <name>af_keyed_name</name>
+ </Item>
+</AML>

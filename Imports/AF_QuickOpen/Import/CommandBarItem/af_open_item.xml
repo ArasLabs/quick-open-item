@@ -1,0 +1,10 @@
+﻿<AML>
+ <Item type="CommandBarButton" id="03027194364A4EAB83196FC3B6803FB0" action="add">
+  <additional_data>{"right": true}</additional_data>
+  <aria_label xml:lang="en">Open Item</aria_label>
+  <image>../Images/OpenItem.svg</image>
+  <on_click_handler keyed_name="AF_OpenItemtype" type="Method">DF508859673240508FC9F83FBAB338A6</on_click_handler>
+  <tooltip_template xml:lang="en">Open Item</tooltip_template>
+  <name>af_open_item</name>
+ </Item>
+</AML>
