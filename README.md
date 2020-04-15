@@ -2,6 +2,8 @@
 
 This package adds several fields to the toolbar of the main screen that allow the user to quickly open an item if they know the keyed name of that item. 
 
+![Example Image](./Screenshots/Quick-Open-Display.png)
+
 ## History
 
 Release | Notes
